@@ -10,4 +10,4 @@ The image used to build the Jupyter Notebook environment is **jupyter/datascienc
 You can found all the information about this image [here](https://hub.docker.com/r/jupyter/datascience-notebook).
 
 # Creating your notebooks
-To access and create your notebooks, after the container up, go to browser and access: [http://localhost:8888](http://localhost:8888)
+To access and create your notebooks, after the container is running, go to browser and access: [http://localhost:8888](http://localhost:8888)
